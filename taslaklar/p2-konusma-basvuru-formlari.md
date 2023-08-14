@@ -15,3 +15,6 @@ Konferansların CFP (Call For Papers) başvuru formları açıkça belirli URL'l
 |        Topluluk        |                              URL                               |
 | ---------------------- | -------------------------------------------------------------- |
 | Turkiye Java Community | https://form.jotform.com/evrentan/tjc-speaker-application-form |
+| IstanbulPHP | https://kommunity.com/istanbulphp/questions/eac3d571-242e-491b-83d6-68129654f2c6 |
+
+
